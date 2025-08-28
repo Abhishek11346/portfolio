@@ -30,7 +30,7 @@ ________________________________________
 ________________________________________
 📂 HOW TO USE
 1.	Clone this repository:
-2.	git clone https://github.com/your-username/portfolio.git
+2.	git clone https://github.com/Abhishek11346/portfolio.git
 3.	Navigate into the folder:
 4.	cd portfolio
 5.	Open index.html in your browser.
